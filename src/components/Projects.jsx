@@ -1,11 +1,11 @@
-import thermometre from "../assets/thermometre.jpg";
+import thermometre from "../assets/thermometre.JPG";
 import robot from "../assets/Robot.jpeg";
 import robot1 from "../assets/robot1.jpeg";
 import robot2 from "../assets/robot2.jpeg";
 import robot3 from "../assets/robot3.jpeg";
-import robotlego from "../assets/robotlego.png";
-import num from "../assets/schéma_numerique.png";
-import analog from "../assets/schéma_analog.png";
+import robotlego from "../assets/robotlego.PNG";
+import num from "../assets/schema_numerique.png";
+import analog from "../assets/schema_analog.png";
 import { useState } from "react";
 const projects = [
   {
