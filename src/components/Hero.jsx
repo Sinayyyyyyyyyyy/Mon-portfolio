@@ -16,9 +16,9 @@ function Hero() {
     
     </div>
     <div className="text-white z-10 mt-8" backdrop-blur-sm>
-        <h1 className="text-6xl mt-8 ">Yanis Ammour</h1>
-        <p className="mt-16 text-xl">Actuellement en BUT GEII je vous souhaite la bienvenue sur mon portfolio !</p>
-        <a className="font-['Archivo_Black'] text-2xl inline-block bg-black text-white justify-center px-4 py-2 rounded hover:bg-gray-800 mt-32 "href="#Projets">Voir mes projets</a>
+        <h1 className="text-4xl md:text-6xl mt-16">Yanis Ammour</h1>
+        <p className="mt-16 md:mt-16 text-base md:text-xl px-4">Actuellement en BUT GEII je vous souhaite la bienvenue sur mon portfolio !</p>
+        <a className="font-['Archivo_Black'] text-base md:text-2xl inline-block bg-black text-white justify-center px-4 py-2 rounded hover:bg-gray-800 mt-32 md:mt-12" href="#Projets">Voir mes projets</a>
     </div>
     </section>
   )
